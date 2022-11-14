@@ -2,9 +2,9 @@
 
 ## Chapter I
 
-[Fundamentos do NodeJS]("./chapter-I/fundamentos-do-nodejs")
+[Fundamentos do NodeJS]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-I/fundamentos-do-nodejs")
 
-[Primeiro Projeto com Node.js]("")
+[Primeiro Projeto com Node.js]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-I/primeiro-projeto-com-nodejs")
 
 ### Desafio: Conceito do NodeJS
 
@@ -16,7 +16,7 @@
 
 ## Chapter II
 
-[Iniciando a API]("")
+[Iniciando a API]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-II/iniciando-a-api")
 
 ### Desafio: Introdução ao SOLID
 
@@ -26,7 +26,7 @@
 
 ## Chapter III
 
-[Continuando a aplicação]("")
+[Continuando a aplicação]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-III/continuando-a-aplicacao")
 
 ### Desafio: Database Queries
 
@@ -36,7 +36,7 @@
 
 ## Chapter IV
 
-[Testes e regras de negócios]("")
+[Testes e regras de negócios]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-IV/teste-e-regras-de-negocios")
 
 ### Desafio: Testes unitários
 
@@ -46,7 +46,7 @@
 
 ## Chapter V
 
-[Trabalhando com refresh_token e e-mail]("")
+[Trabalhando com refresh_token e e-mail]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-V/trabalhando-com-refresh-token-e-email")
 
 ### Desafio Complementar: Transferências com a FinAPI
 
@@ -54,9 +54,9 @@
 
 ## Chapter VI
 
-[Deploy]("")
+[Deploy]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-VI/deploy")
 
-[Serverless]("")
+[Serverless]("https://github.com/DuckKheus/trilha-nodejs/tree/main/chapter-VI/serverless")
 
 ### Desafio Complementar: Construindo com serverless
 
@@ -64,22 +64,22 @@
 
 ## Módulos
 
-[Prisma IO]("")
+[Prisma IO]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
-[Backend de entregas]("")
+[Backend de entregas]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
 ---
 
 ### Conteúdo Extra
 
-[Ignite Lab 01]("")
+[Ignite Lab 01]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
-[WebSockets]("")
+[WebSockets]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
-[NLW#4 - Node.js]("")
+[NLW#4 - Node.js]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
-[NLW#5 - Node.js]("")
+[NLW#5 - Node.js]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
-[Mentoria do CEO]("")
+[Mentoria do CEO]("https://github.com/DuckKheus/trilha-nodejs/tree/main/")
 
 ---
