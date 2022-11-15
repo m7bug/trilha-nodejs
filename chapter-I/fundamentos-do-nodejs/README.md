@@ -2,15 +2,15 @@
 
 ## Conceitos
 
-:white_check_mark: Introdução
-:white_check_mark: Conceitos do Node
-:white_check_mark: Conceitos Sobre API Rest
-:white_check_mark: Métodos de Requisição
+:white_check_mark: Introdução </br>
+:white_check_mark: Conceitos do Node </br>
+:white_check_mark: Conceitos Sobre API Rest </br>
+:white_check_mark: Métodos de Requisição </br>
 
 ## Configurando o Projeto
 
-[] Criando a estrutura do projeto
-[] Adicionando o Nodemon na Aplicação
-[] Utilizando os métodos HTTP
-[] Utilizando o insomnia
-[] Tipos de parâmetros
+:white_check_mark: Criando a estrutura do projeto </br>
+[] Adicionando o Nodemon na Aplicação </br>
+[] Utilizando os métodos HTTP </br>
+[] Utilizando o insomnia </br>
+[] Tipos de parâmetros </br>
