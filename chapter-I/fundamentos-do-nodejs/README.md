@@ -10,7 +10,7 @@
 ## Configurando o Projeto
 
 :white_check_mark: Criando a estrutura do projeto </br>
-[] Adicionando o Nodemon na Aplicação </br>
-[] Utilizando os métodos HTTP </br>
-[] Utilizando o insomnia </br>
-[] Tipos de parâmetros </br>
+:white_check_mark: Adicionando o Nodemon na Aplicação </br>
+:white_check_mark: Utilizando os métodos HTTP </br>
+:white_check_mark: Utilizando o insomnia </br>
+:white_check_mark: Tipos de parâmetros </br>
