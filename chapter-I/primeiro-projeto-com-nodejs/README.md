@@ -1,13 +1,13 @@
 # Primeiro projeto com Node.js
 
-[] Conhecendo os requisitos da aplicação
-[] Cadastro de conta
-[] Validando CPF existente
-[] Listando extrato
-[] Validando a conta
-[] Middleware's
-[] Criando depósito na conta
-[] Criando saque na conta
-[] Listar extrato bancário por data
-[] Atualizar conta
-[] Remover conta
+:white_check_mark: Conhecendo os requisitos da aplicação </br>
+[] Cadastro de conta </br>
+[] Validando CPF existente </br>
+[] Listando extrato </br>
+[] Validando a conta </br>
+[] Middleware's </br>
+[] Criando depósito na conta </br>
+[] Criando saque na conta </br>
+[] Listar extrato bancário por data </br>
+[] Atualizar conta </br>
+[] Remover conta </br>
