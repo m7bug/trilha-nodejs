@@ -2,10 +2,10 @@
 
 ## Conceitos
 
-[] Introdução
-[] Conceitos do Node
-[] Conceitos Sobre API Rest
-[] Métodos de Requisição
+:white_check_mark: Introdução
+:white_check_mark: Conceitos do Node
+:white_check_mark: Conceitos Sobre API Rest
+:white_check_mark: Métodos de Requisição
 
 ## Configurando o Projeto
 
